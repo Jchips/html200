@@ -1,6 +1,6 @@
 let five = 5;
 let eight = 8;
-let cow = "tipsy"
+let cow = "tipsy";
 let ten = 10;
 console.log(five * eight);
 console.log(five * cow);
